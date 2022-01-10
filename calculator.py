@@ -1,0 +1,7 @@
+print("--------------------")
+print("Created By Aravind.G")
+print("--------------------")
+print("Find Me At https://instagram.com/aravind.ceh")
+print("--------------------------------------------")
+x = input("Enter The Value:")
+print("output: ",eval(x))
